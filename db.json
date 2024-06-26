@@ -1,51 +1,38 @@
 {
-    "colegas": [
-        {   
-            "id": 1,
-            "nome": "Daniel",
-            "foto": "/public/assets/img/dani.JPG",
-            "git": "https://github.com/danielheringerr"
-        },
-        {
-            "id": 2,
-            "nome": "Estevão",
-            "foto": "/public/assets/img/tevin.png",
-            "git": "https://github.com/Tevin3s"
-        },
-        {
-            "id": 3,
-            "nome": "Caio",
-            "foto": "/public/assets/img/caio.jfif",
-            "git": "https://github.com/Ikaynm"
-        },
-        {
-            "id": 4,
-            "nome": "João Victor",
-            "foto": "/public/assets/img/joao.jfif",
-            "git": "https://github.com/JojoFB"
-        }
-    ],
-
-    "projetos": [
-        {
-            "id": 1,
-            "foto": "/public/assets/img/projeto1.png"
-        },
-        {
-            "id": 2,
-            "foto": "/public/assets/img/projeto2.png"
-        },
-        {
-            "id": 3,
-            "foto": "/public/assets/img/projeto3.png"
-        },
-        {
-            "id": 4,
-            "foto": "/public/assets/img/projeto4.png"
-        },
-        {
-            "id": 5,
-            "foto": "/public/assets/img/projeto5.png"
-        }
-    ]
+        "equipe": [
+            {   
+                "id": 1,
+                "nome": "João Victor",
+                "foto": "/public/assets/img/Imagem do WhatsApp de 2024-04-09 à(s) 17.58.16_dc34d299.jpg",
+                "url": "https://github.com/JojoFB"
+            },
+            {
+                "id": 2,
+                "nome": "Caio Martins",
+                "foto": "/public/assets/img/Imagem do WhatsApp de 2024-04-09 à(s) 18.25.15_a4126e4b.jpg",
+                "url": "https://github.com/Ikaynm"
+            },
+            {
+                "id": 3,
+                "nome": "Vitor Mendonça",
+                "foto": "/public/assets/img/Imagem do WhatsApp de 2024-04-25 à(s) 16.39.35_b6584b6d.jpg",
+                "url": "https://github.com/VitorMendoncaBraga"
+            }
+        ],
+    
+        "conteudosugerido": [
+            {
+                "id": "ds",
+                "foto": "/public/assets/img/undead-sample_qe41.jpg"
+            },
+            {
+                "id": "cruzeiro",
+                "foto": "/public/assets/img/História-do-Cruzeiro-Esporte-Clube.jpeg"
+            },
+            {
+                "id": "duna",
+                "foto": "/public/assets/img/capsule_616x353.jpg"
+            }
+        ]
 }
+    
